@@ -1,7 +1,7 @@
 # OGS Go Performance Analysis
 
 ## Overview
-This is an analysis of my personal match history on the Online Go Server (OGS). Go is a territory-based strategy game (Wikipedia). While the classic board is 19x19, this study focuses on 9x9, a high-speed tactical format
+This is an analysis of my personal match history on the Online Go Server ([OGS](https://online-go.com/)). Go is a territory-based strategy game ([Wikipedia](https://en.wikipedia.org/wiki/Go_(game)). While the classic board is 19x19, this study focuses on 9x9, a high-speed tactical format
 
 ## Dataset
 * **Source:** 150 games pulled via OGS API
@@ -12,8 +12,8 @@ This is an analysis of my personal match history on the Online Go Server (OGS). 
 * **Python** (Pandas, Seaborn, Matplotlib)
 
 ### Files
-* notebook
-* PDF-version
+* [go_analysis.ipynb](go_analysis.ipynb) - notebook
+* [go_analysis.pdf](go_analysis.pdf) - PDF-version
 
 ## Key Insights
 
